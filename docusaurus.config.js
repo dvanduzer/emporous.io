@@ -87,7 +87,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
-            href: 'https://github.com/uor-framework',
+            href: 'https://github.com/emporous',
             label: 'GitHub',
             position: 'right',
           },
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/UorFramework',
+                href: 'https://twitter.com/Emporous',
               },
             ],
           },
